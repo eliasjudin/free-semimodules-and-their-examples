@@ -15,4 +15,9 @@ University of Cape Town
 2022
 
 #### License
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This work is licensed under [CC BY-NC-ND 4.0](cc-by-nc-nd).
+
+[![CC BY 4.0][cc-by-nc-nd-image]](cc-by-nc-nd)
+
+[cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
