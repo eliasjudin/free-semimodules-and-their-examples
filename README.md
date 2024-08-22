@@ -1,23 +1,17 @@
 # Free Semimodules and Their Examples
 
-This repository contains the PDF of my honours thesis titled **"Free Semimodules and Their Examples"**. 
+This repository contains the PDF of my honours thesis ***Free Semimodules and Their Examples*** *(2022)*. 
 
-#### Author
-Elias Judin
+**Author**: *Elias Judin*
 
-#### Supervisor
-Prof. George Janelidze
+**Supervisor**: *Prof. George Janelidze*
 
-#### Institution
-University of Cape Town
-
-#### Year
-2022
+**Institution**: *University of Cape Town*
 
 #### License
-This work is licensed under [CC BY-NC-ND 4.0](cc-by-nc-nd).
+This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-[![CC BY 4.0][cc-by-nc-nd-image]](cc-by-nc-nd)
+[![CC BY 4.0][cc-by-nc-nd-image]](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-[cc-by-nc-nd]: https://creativecommons.org/licenses/by-nc-nd/4.0/
 [cc-by-nc-nd-image]: https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png
+
