@@ -8,7 +8,7 @@ This repository contains the PDF of my honours thesis ***Free Semimodules and Th
 
 **Institution**: *University of Cape Town*
 
-## License
+#### License
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 [![CC BY 4.0][cc-by-image]](https://creativecommons.org/licenses/b/4.0/)
