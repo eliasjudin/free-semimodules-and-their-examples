@@ -8,8 +8,8 @@ This repository contains the PDF of my honours thesis ***Free Semimodules and Th
 
 **Institution**: *University of Cape Town*
 
-#### License
-This work, "Free semimodules and their examples", is licensed under the Creative Commons Attribution 4.0 International License [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+## License
+This work, *Free semimodules and their examples*, is licensed under the Creative Commons Attribution 4.0 International License [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 © 2024 by Elias Judin
 
